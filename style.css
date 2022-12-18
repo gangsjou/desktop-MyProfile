@@ -22,16 +22,16 @@ h3 {
   font-size: 35px;
 }
 .p {
-  font-family: 'Courgette', cursive;
+  font-family: 'Brush Script MT', cursive;
   color: black;
-  font-size: 12px;
+  font-size: 13px;
   word-wrap: hard;
 }
 
 .myheader {
   background-color: #99cccc;
   border-radius: 10px;
-  width: 650px;
+  width: 850px;
   border-color: #003333;
   border-style: solid;
   padding: 10px;
@@ -40,13 +40,13 @@ h3 {
   img {
     border: 5px solid #003333;
     border-radius: 10px;
-    width: "50%";
-    height: "50%";
+    width: "10%";
+    height: "10%";
   }
  .image {
     border-color: #003333;
     background-color: #99cccc;
-    width: 650px;
+    width: 850px;
     border-style: solid;
     border-radius: 10px;
     padding: 10px;
@@ -65,7 +65,7 @@ h3 {
   border-radius: 10px;
   padding: 10px;
   margin: 10px;
-  width: 650px;
+  width: 850px;
 }
 .navtxt {
   font-family: Georgia;
