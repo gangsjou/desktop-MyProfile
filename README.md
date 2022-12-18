@@ -1,3 +1,2 @@
-# desktop-MyProfile
-IIT A1
-This is Assignment 1 for Intro to IT based at RMIT. The project is a personal profile presented in a basic web page format created with HTML and CSS.
+#MyProfile
+This is my assignment 1 project for Intro to IT for RMIT through OUA.

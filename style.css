@@ -1,0 +1,90 @@
+body {
+  background-color: #cce5e5;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: 'Tangerine', serif;
+        font-size: 48px;
+
+}
+h2 {
+  color: black;
+  text-align: center;
+  font-family: 'Tangerine', serif;
+  font-size: 40px;
+}
+h3 {
+  color: black;
+  text-align: center;
+  font-family: 'Tangerine', serif;
+  font-size: 35px;
+}
+.p {
+  font-family: 'Courgette', cursive;
+  color: black;
+  font-size: 12px;
+  word-wrap: hard;
+}
+
+.myheader {
+  background-color: #99cccc;
+  border-radius: 10px;
+  width: 650px;
+  border-color: #003333;
+  border-style: solid;
+  padding: 10px;
+  margin: 10px;
+  }
+  img {
+    border: 5px solid #003333;
+    border-radius: 10px;
+    width: "50%";
+    height: "50%";
+  }
+ .image {
+    border-color: #003333;
+    background-color: #99cccc;
+    width: 650px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+ }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.nav {
+  border-color: #003333;
+  background-color: #99cccc;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  width: 650px;
+}
+.navtxt {
+  font-family: Georgia;
+  font-size: 18px;
+  font-weight:bold;
+  color: black;
+}
+a:link, a:visited {
+  background-color: #1f618d ;
+    color: white;
+    border-radius: 5px;
+    border-width: 3px;
+    border-color: #003366;
+    padding: 12px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: purple;
+  }
